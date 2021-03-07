@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Luthfi, a Software Engineer from Garut - Indonesia. Currently i working as a Fullstack Developer at ElevenboxStudio.
+I'm Luthfi, a Software Engineer from Indonesia
 
 ### 💬  For more information about me, check out
 
