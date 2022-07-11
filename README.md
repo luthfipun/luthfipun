@@ -1,8 +1,6 @@
 ### Hi 👋
 
-I'm Luthfi, a Software Engineer from Indonesia
-
-### 💬  For more information about me, check out
+I'm Luthfi as a Software Engineer from Indonesia
 
 <p align="left">
 	<a href="https://github.com/luthfipun"><img src="https://img.shields.io/github/followers/luthfipun.svg?label=GitHub&style=social" alt="GitHub"></a>
